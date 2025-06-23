@@ -1,0 +1,10 @@
+baseURL = 'https://lattecatte.github.io/site/'
+languageCode = 'en-us'
+title = "Star's Blog"
+theme = 'PaperMod'
+enableRobotsTXT = true
+
+[params]
+author = 'Star'
+description = 'A blog about drones, Japan and other nerd stuff'
+
